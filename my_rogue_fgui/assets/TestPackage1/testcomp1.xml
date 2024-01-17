@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <text id="n0_elzx" name="test_lab" xy="90,87" size="306,116" fontSize="12" autoSize="none" text="1111222"/>
+    <text id="n1_o3d6" name="text111" xy="454,94" size="40,19" fontSize="12" text=""/>
+    <component id="n2_gayz" name="pic" src="gayz0" fileName="common_test.xml" pkg="t9ktrtlr" xy="-79,-119"/>
+  </displayList>
+</component>

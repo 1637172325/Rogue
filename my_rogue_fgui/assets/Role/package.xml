@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t1kt8f5i">
+  <resources>
+    <component id="gayz0" name="hero.xml" path="/" exported="true"/>
+    <movieclip id="h5o11" name="walk.jta" path="/pic_hero_action/"/>
+    <movieclip id="h5o12" name="run.jta" path="/pic_hero_action/"/>
+    <movieclip id="h5o13" name="jum.jta" path="/pic_hero_action/"/>
+    <movieclip id="h5o14" name="idel.jta" path="/pic_hero_action/"/>
+    <movieclip id="h5o15" name="attack.jta" path="/pic_hero_action/"/>
+    <movieclip id="h5o16" name="die.jta" path="/pic_hero_action/"/>
+    <movieclip id="h5o17" name="hurt.jta" path="/pic_hero_action/"/>
+    <image id="h5o18" name="1_knight_.png" path="/pic_hero_action/"/>
+    <component id="v1uu9" name="hero_anis.xml" path="/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

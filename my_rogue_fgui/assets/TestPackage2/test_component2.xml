@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <richtext id="n0_jbr8" name="lanel" xy="151,67" size="223,156" fontSize="50" color="#cc0033" autoSize="none" text="第二个"/>
+    <component id="n1_gayz" name="btn" src="gayz1" fileName="Button1.xml" xy="312,382">
+      <Button title="删除组建"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t9ktrtlr">
+  <resources>
+    <component id="gayz0" name="common_test_component.xml" path="/" exported="true"/>
+    <image id="gayz1" name="test_pic.jpeg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="272,339">
+  <displayList>
+    <image id="n7_h5o1" name="hero" src="h5o18" fileName="pic_hero_action/1_knight_.png" xy="56,25" scale="0.2,0.2" visible="false"/>
+    <movieclip id="n0_h5o1" name="ani_walk" src="h5o11" fileName="pic_hero_action/walk.jta" xy="53,65" scale="0.2,0.2" visible="false"/>
+    <movieclip id="n1_h5o1" name="ani_run" src="h5o12" fileName="pic_hero_action/run.jta" xy="25,59" scale="0.2,0.2" visible="false"/>
+    <movieclip id="n2_h5o1" name="ani_jump" src="h5o13" fileName="pic_hero_action/jum.jta" xy="22,11" scale="0.2,0.2" visible="false"/>
+    <movieclip id="n3_h5o1" name="ani_idle" src="h5o14" fileName="pic_hero_action/idel.jta" xy="54,65" scale="0.2,0.2"/>
+    <movieclip id="n4_h5o1" name="ani_attack" src="h5o15" fileName="pic_hero_action/attack.jta" xy="47,57" scale="0.2,0.2" visible="false"/>
+    <movieclip id="n5_h5o1" name="ani_die" src="h5o16" fileName="pic_hero_action/die.jta" xy="-14,54" scale="0.2,0.2" visible="false"/>
+    <movieclip id="n6_h5o1" name="ani_hurt" src="h5o17" fileName="pic_hero_action/hurt.jta" xy="43,54" scale="0.2,0.2" visible="false"/>
+    <text id="n8_h5o1" name="txt" xy="167,-124" size="40,19" scale="0.2,0.2" fontSize="12" text=""/>
+  </displayList>
+</component>

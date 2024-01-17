@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,209" pivot="0.5,0.5">
+  <displayList>
+    <component id="n7_h5o1" name="hero" src="v1uu9" fileName="hero_anis.xml" xy="-51,-65" pivot="0.5,0.5"/>
+  </displayList>
+</component>

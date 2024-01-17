@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="polnplmd">
+  <resources>
+    <component id="udvs0" name="test_component2.xml" path="/" exported="true"/>
+    <component id="gayz1" name="btn_component.xml" path="/" exported="true"/>
+    <component id="gayz2" name="test_component2_cpy.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>
